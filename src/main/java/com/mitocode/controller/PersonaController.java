@@ -21,6 +21,7 @@ import com.mitocode.service.IPersonaService;
 @RestController
 @RequestMapping(value = "/personas")
 //@CrossOrigin(origins = "http://localhost:4200")
+// dummy
 public class PersonaController {
 
 	@Autowired
